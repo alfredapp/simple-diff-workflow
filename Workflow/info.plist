@@ -289,7 +289,7 @@
 				<key>behaviour</key>
 				<integer>0</integer>
 				<key>fontmode</key>
-				<integer>0</integer>
+				<integer>2</integer>
 				<key>footertext</key>
 				<string></string>
 				<key>inputfile</key>
